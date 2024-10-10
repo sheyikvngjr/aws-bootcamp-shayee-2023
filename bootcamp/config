@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = https://github.com/sheyikvngjr/aws-bootcamp-shayee-2023.git
+	fetch = +refs/*:refs/*
+	mirror = true

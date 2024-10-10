@@ -1,0 +1,5 @@
+# pack-refs with: peeled fully-peeled sorted 
+6cdd7e45ae49c17582d770cae2bda2818727679f refs/heads/Journal
+6cdd7e45ae49c17582d770cae2bda2818727679f refs/heads/main
+d6cf71e76889faf1928d4a5a6f66ba4223ba628e refs/heads/week-1
+16dcc8dbf4362c39a741b6401c060cedcf5112e6 refs/tags/week1
